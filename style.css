@@ -6,7 +6,7 @@ nav,.wrap{max-width:1160px;margin:auto}nav{padding:17px 25px;display:flex;justif
 .brand{font:700 22px/1.2 "Libre Baskerville",Georgia,serif;letter-spacing:.045em;color:var(--ink);text-decoration:none}
 .tagline{display:block;font:600 9px/2 "DM Sans",sans-serif;letter-spacing:.23em;color:#6b8193}
 .links{display:flex;gap:30px;align-items:center;flex-wrap:wrap}.links a{font-size:13px;text-decoration:none;color:var(--ink)}.links a[aria-current]{font-weight:700;color:var(--navy);border-bottom:2px solid var(--navy);padding-bottom:5px}
-.hero{background:linear-gradient(90deg,#edf5fa 0%,#eaf3f9ef 32%,#edf4f7ab 54%,#fff0 100%),url("assets/mountains.svg") center 45%/cover;padding:90px 25px}
+.hero{background:linear-gradient(90deg,#edf5fa 0%,#eaf3f9ef 32%,#edf4f7ab 54%,#fff0 100%),url("mountains.svg") center 45%/cover;padding:90px 25px}
 .hero .wrap{position:relative}.hero p{max-width:650px}.eyebrow{font-size:12px;text-transform:uppercase;letter-spacing:.14em;color:#315c77;font-weight:700}
 h1,h2,h3{font-family:"Libre Baskerville",Georgia,serif;line-height:1.28;letter-spacing:-.03em}h1{font-size:clamp(36px,4.5vw,58px);max-width:700px;margin:15px 0}h2{font-size:clamp(25px,2.8vw,33px);margin:12px 0 18px}h3{font-size:19px;margin:13px 0}
 .lead{font-size:19px;line-height:1.55;font-weight:600}.btn{display:inline-block;background:#08466a;color:#fff;padding:11px 19px;border-radius:5px;text-decoration:none;font-weight:700;font-size:13px;margin:12px 12px 0 0;box-shadow:0 4px 8px #10344b20}.btn.alt{background:#ffffffe8;color:var(--navy);border:1px solid var(--navy);box-shadow:none}
@@ -19,4 +19,4 @@ section{padding:56px 25px}.soft{background:var(--soft)}.sectiontop{display:flex;
 table{width:100%;border-collapse:collapse}td,th{padding:13px 9px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
 input{width:100%;font:inherit;border:1px solid #aebfc9;border-radius:7px;padding:13px 16px;margin:5px 0 25px}.notice{padding:18px 21px;background:#edf5f9;border-left:4px solid var(--navy);border-radius:5px}
 footer{border-top:1px solid var(--line);background:#f7fafc;color:var(--muted);padding:30px 25px;font-size:13px}
-[hidden]{display:none!important}@media(max-width:750px){.grid,.cols,.feature{grid-template-columns:1fr}.hero{padding:60px 24px;background:linear-gradient(90deg,#eff7fbed,#eff7fbd1),url("assets/mountains.svg") center/cover}.links{gap:15px}.brand{font-size:17px}.tagline{font-size:8px}section{padding:38px 22px}.feature img{max-height:230px}}
+[hidden]{display:none!important}@media(max-width:750px){.grid,.cols,.feature{grid-template-columns:1fr}.hero{padding:60px 24px;background:linear-gradient(90deg,#eff7fbed,#eff7fbd1),url("mountains.svg") center/cover}.links{gap:15px}.brand{font-size:17px}.tagline{font-size:8px}section{padding:38px 22px}.feature img{max-height:230px}}
